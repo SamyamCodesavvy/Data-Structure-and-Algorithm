@@ -1,4 +1,4 @@
-# Data Structures and Algorithms DSA-
+# Data Structures and Algorithms DSA
 This repository contains tasks, codes, and implementations related to Data Structures and Algorithms (DSA) for the 2nd year, 2nd part of my Bachelor's degree. Each branch represents a different chapter or concept, allowing exploration and practice of various DSA topics.
 
 ## How to Use
