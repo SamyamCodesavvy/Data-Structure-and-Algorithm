@@ -9,7 +9,6 @@ Use the following steps to switch between branches:
    ```bash
    git clone https://github.com/SamyamCodesavvy/Data-Structures-and-Algorithms.git
 2. View available branches:
-3. 
    ```bash
    git branch -a
 4. Checkout the desired brach:
