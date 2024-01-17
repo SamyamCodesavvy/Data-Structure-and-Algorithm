@@ -11,6 +11,6 @@ Use the following steps to switch between branches:
 2. View available branches:
    ```bash
    git branch -a
-4. Checkout the desired braanches:
+4. Checkout the desired branches:
    ```bash
    git checkout branch-name
