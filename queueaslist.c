@@ -8,11 +8,9 @@
 struct nodetype {
     int info, next;
 };
-
 struct nodetype node[max];
 
 int avail;
-
 void initializeList() {
     int i;
     avail = 0;
