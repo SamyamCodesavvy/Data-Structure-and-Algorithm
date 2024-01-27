@@ -1,4 +1,4 @@
-# Data Structure and Algorithm (DSA) Lab Experiments
+# Data Structure and Algorithm (DSA) Lab Collection Codes
 This repository contains tasks, codes, and implementations related to Data Structure and Algorithm (DSA) for the 2nd year, 2nd part of my Bachelor's degree. Each branch represents a different chapter or concept, allowing exploration and practice of various DSA topics.
 
 ## How to Use
