@@ -4,7 +4,7 @@ This repository contains tasks, codes, and implementations related to Data Struc
 ## How to Use:
 To explore different chapters or DSA concepts, navigate to the respective branch in this repository. Each branch focuses on a specific topic, allowing you to delve into different DSA concepts.
 
-### Switching Between Branches
+### Switching Between Branches:
 Use the following steps to switch between branches:
 1. Clone this repository to your local machine:
    ```bash
